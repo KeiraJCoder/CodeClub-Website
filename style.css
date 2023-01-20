@@ -51,6 +51,7 @@ h2{
 
 img {
     width:80%;
+    object-fit:cover;
 }
 
 .image1{
