@@ -105,3 +105,21 @@ p{
 .section2{
     padding-top:10%;
 }
+
+.nav2 {
+    display:flex;
+    justify-content: center;
+    gap:8%;
+    background-color:#F5B32F;
+    
+}
+
+.nav2 a{
+    font-size: 22px;
+    color:#1C1C1C;
+    text-decoration: none;
+}
+
+.nav2 a:hover{
+    color:#FFFFFF;
+}
