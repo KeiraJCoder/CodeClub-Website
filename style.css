@@ -109,8 +109,9 @@ p{
 .nav2 {
     display:flex;
     justify-content: center;
-    gap:8%;
+    gap:3%;
     background-color:#F5B32F;
+    padding:20%;
     
 }
 
