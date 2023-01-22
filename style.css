@@ -53,10 +53,8 @@ h2{
     justify-content: center;
     font-family: 'Roboto', sans-serif;
     color:#F5B32F;
-    font-size:45px;
+    font-size:65px;
     text-align:center;
-
-
 }
 
 img {
@@ -75,8 +73,6 @@ p{
     padding-top:4%;
     color:#FFFFFF;
     text-align:center;
-
-
 }
 
 .symbols {
@@ -121,8 +117,7 @@ p{
     justify-content: center;
     gap:3%;
     background-color:#F5B32F;
-    padding:20px;
-    
+    padding:20px; 
 }
 
 .nav2 a{
