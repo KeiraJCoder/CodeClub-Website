@@ -38,8 +38,8 @@ h1{
     justify-content: center;
     font-family: 'Roboto', sans-serif;
     color:#F5B32F;
-    font-size:60px;
-    padding-top:20%;
+    font-size:80%;
+;
 }
 
 h2{
@@ -115,7 +115,6 @@ p{
     gap:3%;
     background-color:#F5B32F;
     padding:20px;
-    padding-top:10%;
     
 }
 
