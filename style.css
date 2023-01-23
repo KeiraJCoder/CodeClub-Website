@@ -24,6 +24,7 @@ body {
 .nav {
     display:flex;
     justify-content: center;
+    align-items:center;
     gap:10%;
     background-color:#F5B32F;
     text-align:center;
@@ -114,6 +115,7 @@ p{
 .nav2 {
     display:flex;
     justify-content: center;
+    align-items:center;
     gap:3%;
     background-color:#F5B32F;
     
