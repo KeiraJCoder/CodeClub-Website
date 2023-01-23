@@ -43,6 +43,7 @@ body {
 
 h1{
     display:flex;
+    margin-top:10%;
     justify-content: center;
     font-family: 'Roboto', sans-serif;
     color:#F5B32F;
